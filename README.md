@@ -1,3 +1,2 @@
 # MiniProject
-idk man
 supercalifragilisticexpialidocious
